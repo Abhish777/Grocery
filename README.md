@@ -14,7 +14,7 @@ mango = 6
 userIn = input()
 
 if userIn == "L":
-    print("Choose from the list")
+    print("Choose from the  lis    t")
     print("We have ", "orange: ", orange, "apple: ", apple, "mango: ", mango,)
     print("select the item u want to choose e.g orange, apple, mango")
 
